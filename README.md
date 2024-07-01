@@ -7,5 +7,5 @@
 - npm v10.1.0
 
 ## 使用说明
-npm install
-npm run dev
+- npm install
+- npm run dev
